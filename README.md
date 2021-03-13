@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currently working on [Lit Bot](https://realtechnerd.github.io/lit-bot/), the perfect Discord bot to enlighten your servers. 
+
+![Advaith Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithmalka&count_private=true&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=advaithmalka&layout=compact&langs_count=6&theme=dark)
 <!--
 **advaithmalka/advaithmalka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
