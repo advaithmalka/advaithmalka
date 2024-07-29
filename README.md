@@ -1,6 +1,3 @@
-### Hi there 👋
-
-I am currently working on [Lit Bot](https://realtechnerd.github.io/lit-bot/), the perfect Discord bot to enlighten your servers. 
 
 ![Advaith Malka's GitHub stats](https://github-readme-stats.vercel.app/api?username=advaithmalka&count_private=true&show_icons=true&theme=tokyonight)
 
